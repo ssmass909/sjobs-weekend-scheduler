@@ -1,0 +1,24 @@
+{
+  "name": "sjobs-weekend-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssmass909/sjobs-weekend-scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ssmass909/sjobs-weekend-scheduler/issues"
+  },
+  "homepage": "https://github.com/ssmass909/sjobs-weekend-scheduler#readme",
+  "dependencies": {
+    "tsx": "^4.21.0"
+  }
+}
